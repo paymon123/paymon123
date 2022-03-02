@@ -1,4 +1,4 @@
 <div>
-<img align="left" style="width:15%; height:200px; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paymon123&layout=compact"/>
-<img align="center" style="width:80%; height: 200px; display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=paymon123&count_private=true&include_all_commits=true"/>
+<img align="left" style="height:200px; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paymon123&layout=compact"/>
+<img align="center" style="height: 200px; display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=paymon123&count_private=true&include_all_commits=true"/>
 </div>
