@@ -1,6 +1,6 @@
 <a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=paymon123&repo=github-readme-stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paymon123" />
 </a>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paymon123">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=paymon123&count_private=true&include_all_commits=true">
 </a>
