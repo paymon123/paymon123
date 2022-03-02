@@ -3,7 +3,7 @@
   <br/>
   <br/>
 </div>
-  <div align="center">
+  <div align="center" style="height:170px; display: inline-block;">
   <p align="left"> I am currently working on: </p>
   <p align="left"> 
   • Youtube tutorial to create Agar.io with NodeJS and Phaser 3 <br/>
